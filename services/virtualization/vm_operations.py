@@ -1,0 +1,2 @@
+class VMOperations(object):
+	pass
